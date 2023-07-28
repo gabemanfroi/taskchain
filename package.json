@@ -1,0 +1,13 @@
+{
+  "name": "taskchain",
+  "version": "0.0.0",
+  "description": "a decentralized todo list",
+  "main": "index.js",
+  "author": "Gabriel Manfroi",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.2",
+    "web3": "^4.0.3"
+  }
+}

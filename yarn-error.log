@@ -1,0 +1,36 @@
+Arguments: 
+  /Users/gabriel.manfroi/Library/Application Support/fnm/node-versions/v14.18.1/installation/bin/node /Users/gabriel.manfroi/Library/Caches/fnm_multishells/54878_1690471067209/bin/yarn init
+
+PATH: 
+  /Users/gabriel.manfroi/opt/anaconda3/bin:/Users/gabriel.manfroi/opt/anaconda3/condabin:/Users/gabriel.manfroi/Library/Caches/fnm_multishells/54878_1690471067209/bin:/Users/gabriel.manfroi/google-cloud-sdk/bin:/Users/gabriel.manfroi/.local/bin:/Users/gabriel.manfroi/.local/share/zinit/polaris/bin:/Users/gabriel.manfroi/Library/Caches/fnm_multishells/54837_1690471066695/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Users/gabriel.manfroi/.cargo/bin:/Users/gabriel.manfroi/eDreams/frontend-fast-track/node_modules/.bin:/Users/gabriel.manfroi/Library/Application Support/JetBrains/Toolbox/scripts:/opt/homebrew/opt/fzf/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  14.18.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/Users/gabriel.manfroi/Library/Application Support/fnm/node-versions/v14.18.1/installation/lib/node_modules/yarn/lib/cli.js:137150:13)
+      at Interface.emit (events.js:400:28)
+      at Interface._ttyWrite (readline.js:1001:16)
+      at ReadStream.onkeypress (readline.js:265:10)
+      at ReadStream.emit (events.js:400:28)
+      at emitKeys (internal/readline/utils.js:358:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1270:36)
+      at ReadStream.emit (events.js:400:28)
+      at addChunk (internal/streams/readable.js:293:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
